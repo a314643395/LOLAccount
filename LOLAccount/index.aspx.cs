@@ -57,7 +57,7 @@ namespace LOLAccount
             }
             else
             {
-                lbl0.Text = "此QQ没有开放查看权限！";
+                lbl0.Text = "此QQ没有开放查看权限！！！";
             }
 
             //if (Login(txtLogin.Text))
