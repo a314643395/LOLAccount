@@ -1,0 +1,6 @@
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\bin\LOLAccount.dll.config
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\bin\LOLAccount.dll
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\bin\LOLAccount.pdb
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Release\LOLAccount.csprojResolveAssemblyReference.cache
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Release\LOLAccount.dll
+F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Release\LOLAccount.pdb
