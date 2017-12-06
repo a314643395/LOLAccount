@@ -29,6 +29,18 @@ namespace LOLAccount.Method
             return dt;
         }
 
+
+        public  DataTable SelectAllAccount()
+        {
+            System.Data.SqlClient.SqlConnection conn = CreateSqlConnection();
+            DataTable dt = new DataTable();
+            SqlCommand cmd = new SqlCommand("select * from LOLAccount", conn);
+            SqlDataReader dr = cmd.ExecuteReader();
+            dt.Load(dr);
+            conn.Close();
+            return dt;
+        }
+
         public static DataTable SelectAllQQ()
         {
             System.Data.SqlClient.SqlConnection conn = CreateSqlConnection();
