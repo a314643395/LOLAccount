@@ -14,7 +14,7 @@
       <publishTime>12/05/2017 08:58:42</publishTime>
     </File>
     <File Include="bin/LOLAccount.dll">
-      <publishTime>12/06/2017 14:31:54</publishTime>
+      <publishTime>12/07/2017 17:03:26</publishTime>
     </File>
     <File Include="css/index.js">
       <publishTime>12/05/2017 08:58:42</publishTime>
@@ -58,6 +58,9 @@
     <File Include="Service/AnYingDaoService.asmx">
       <publishTime>12/06/2017 13:58:55</publishTime>
     </File>
+    <File Include="Test.aspx">
+      <publishTime>12/07/2017 16:58:13</publishTime>
+    </File>
     <File Include="Update.aspx">
       <publishTime>12/05/2017 08:58:42</publishTime>
     </File>
@@ -66,6 +69,9 @@
     </File>
     <File Include="Web.config">
       <publishTime>12/06/2017 14:02:10</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>12/07/2017 16:57:18</publishTime>
     </File>
   </ItemGroup>
 </Project>
