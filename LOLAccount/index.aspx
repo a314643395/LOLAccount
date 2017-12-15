@@ -45,9 +45,6 @@
         <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" Visible="False" AutoGenerateColumns="False" OnRowDataBound="GridView1_RowDataBound">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
-                <asp:BoundField DataField="ID" HeaderText="ID">
-                <ControlStyle Width="50px" />
-                </asp:BoundField>
                 <asp:BoundField DataField="QQ" HeaderText="QQ">
                 <ControlStyle Width="120px" />
                 <HeaderStyle Width="150px" />
