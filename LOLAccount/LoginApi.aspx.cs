@@ -19,11 +19,13 @@ namespace LOLAccount
         }
 
         [WebMethod]
-        public static  string Login(string UserName, string PassWord)
+        public static string Login(string UserName, string PassWord)
         {
+
             try
             {
                 IList<UserEntity> users = DtToList<UserEntity>.ConvertToModel(SqlHelp.SelectAllQQ());
+
                 var user = users.FirstOrDefault(x => x.QQ == UserName);
                 if (user == null)
                 {
@@ -41,15 +43,14 @@ namespace LOLAccount
             }
             catch (Exception ex)
             {
-                
-                throw new Exception(ex.ToString());
-            }
 
+                return(ex.ToString());
+            }
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Login("314643395", "0");
+           Response.Write(Login("314643395", "0")); 
         }
     }
 }

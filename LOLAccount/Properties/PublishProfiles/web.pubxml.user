@@ -11,67 +11,70 @@
   </PropertyGroup>
   <ItemGroup>
     <File Include="Add.aspx">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="bin/LOLAccount.dll">
-      <publishTime>01/05/2018 11:24:26</publishTime>
+      <publishTime>01/05/2018 17:32:26</publishTime>
     </File>
     <File Include="css/index.js">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="css/jquery.min.js">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="css/jquery.zySlide.css">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="css/jquery.zySlide.js">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="images/1.jpg">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="images/2.jpg">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="images/3.jpg">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="images/IIS Manager.lnk">
-      <publishTime>12/05/2017 08:58:43</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="images/xg.png">
-      <publishTime>12/05/2017 08:58:43</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="index.aspx">
-      <publishTime>12/15/2017 12:57:26</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="index.js">
-      <publishTime>12/05/2017 08:58:43</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="jquery.min.js">
-      <publishTime>12/05/2017 08:58:43</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="jquery.zySlide.js">
-      <publishTime>12/05/2017 08:58:43</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="LoginApi.aspx">
-      <publishTime>01/05/2018 11:18:11</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="Service/AnYingDaoService.asmx">
-      <publishTime>12/06/2017 13:58:55</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="Test.aspx">
-      <publishTime>12/07/2017 16:58:13</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="Update.aspx">
-      <publishTime>12/05/2017 08:58:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="UseSqlScript.aspx">
       <publishTime>11/09/2017 10:05:18</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/05/2018 11:33:42</publishTime>
+      <publishTime>01/05/2018 16:57:52</publishTime>
     </File>
     <File Include="WebForm1.aspx">
       <publishTime>12/07/2017 16:57:18</publishTime>
