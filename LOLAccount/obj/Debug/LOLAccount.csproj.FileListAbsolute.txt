@@ -4,3 +4,8 @@ F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\bin\LOLAccount.pdb
 F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Debug\LOLAccount.dll
 F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Debug\LOLAccount.pdb
 F:\QQPCmgr\Desktop\新建文件夹 (2)\LOLAccount\LOLAccount\obj\Debug\LOLAccount.csprojResolveAssemblyReference.cache
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.dll.config
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.dll
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.pdb
+H:\Git\LOLAccount\LOLAccount\obj\Debug\LOLAccount.dll
+H:\Git\LOLAccount\LOLAccount\obj\Debug\LOLAccount.pdb

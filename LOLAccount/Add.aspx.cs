@@ -33,9 +33,5 @@ namespace LOLAccount
                 Label1.Text = "XXXXX";
             }
         }
-
-
-
-
     }
 }

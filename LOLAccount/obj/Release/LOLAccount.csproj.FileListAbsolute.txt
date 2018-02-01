@@ -10,3 +10,9 @@ E:\GitHubProject\LOLAccount\LOLAccount\bin\LOLAccount.pdb
 E:\GitHubProject\LOLAccount\LOLAccount\obj\Release\LOLAccount.csprojResolveAssemblyReference.cache
 E:\GitHubProject\LOLAccount\LOLAccount\obj\Release\LOLAccount.dll
 E:\GitHubProject\LOLAccount\LOLAccount\obj\Release\LOLAccount.pdb
+H:\Git\LOLAccount\LOLAccount\obj\Release\LOLAccount.csprojResolveAssemblyReference.cache
+H:\Git\LOLAccount\LOLAccount\obj\Release\LOLAccount.dll
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.dll.config
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.dll
+H:\Git\LOLAccount\LOLAccount\bin\LOLAccount.pdb
+H:\Git\LOLAccount\LOLAccount\obj\Release\LOLAccount.pdb
